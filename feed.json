@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Codega Labs",
     "description": "",
-    "home_page_url": "https://codega.email",
-    "feed_url": "https://codega.email/feed.json",
+    "home_page_url": "https://codega.xyz",
+    "feed_url": "https://codega.xyz/feed.json",
     "user_comment": "",
     "author": {
         "name": "Michael"
     },
     "items": [
         {
-            "id": "https://codega.email/welcome.html",
-            "url": "https://codega.email/welcome.html",
+            "id": "https://codega.xyz/welcome.html",
+            "url": "https://codega.xyz/welcome.html",
             "title": "Welcome. ",
             "summary": "This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.",
             "content_html": "<p>This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.</p>\n",

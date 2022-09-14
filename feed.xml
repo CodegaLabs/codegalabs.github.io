@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Codega Labs</title>
-    <link href="https://codega.email/feed.xml" rel="self" />
-    <link href="https://codega.email" />
+    <link href="https://codega.xyz/feed.xml" rel="self" />
+    <link href="https://codega.xyz" />
     <updated>2022-09-14T00:17:54-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
-    <id>https://codega.email</id>
+    <id>https://codega.xyz</id>
 
     <entry>
         <title>Welcome. </title>
         <author>
             <name>Michael</name>
         </author>
-        <link href="https://codega.email/welcome.html"/>
-        <id>https://codega.email/welcome.html</id>
+        <link href="https://codega.xyz/welcome.html"/>
+        <id>https://codega.xyz/welcome.html</id>
 
         <updated>2022-09-14T00:17:54-07:00</updated>
             <summary>
