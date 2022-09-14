@@ -13,15 +13,15 @@
             "id": "https://codega.xyz/welcome.html",
             "url": "https://codega.xyz/welcome.html",
             "title": "Welcome. ",
-            "summary": "This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.",
-            "content_html": "<p>This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.</p>\n",
+            "summary": "This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon. If you must contact us, please reach out via &#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;",
+            "content_html": "<p>This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.</p>\n<p>If you must contact us, please reach out via <a href=\"mailto:&#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;\">&#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;</a> </p>\n",
             "author": {
                 "name": "Michael"
             },
             "tags": [
             ],
             "date_published": "2022-09-13T23:14:51-07:00",
-            "date_modified": "2022-09-14T00:17:54-07:00"
+            "date_modified": "2022-09-14T00:47:43-07:00"
         }
     ]
 }

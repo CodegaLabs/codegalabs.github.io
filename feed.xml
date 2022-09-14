@@ -3,7 +3,7 @@
     <title>Codega Labs</title>
     <link href="https://codega.xyz/feed.xml" rel="self" />
     <link href="https://codega.xyz" />
-    <updated>2022-09-14T00:17:54-07:00</updated>
+    <updated>2022-09-14T00:47:43-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://codega.xyz/welcome.html"/>
         <id>https://codega.xyz/welcome.html</id>
 
-        <updated>2022-09-14T00:17:54-07:00</updated>
+        <updated>2022-09-14T00:47:43-07:00</updated>
             <summary>
                 <![CDATA[
-                    This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.
+                    This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon. If you must contact us, please reach out via &#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.</p>
+<p>If you must contact us, please reach out via <a href="mailto:&#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;">&#109;&#x61;&#x69;&#108;&#64;&#x63;&#111;&#100;&#101;&#103;&#97;&#x2e;&#120;&#121;&#122;</a> </p>
 
             ]]>
         </content>
