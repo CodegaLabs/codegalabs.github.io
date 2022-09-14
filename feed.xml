@@ -3,7 +3,7 @@
     <title>Codega Labs</title>
     <link href="https://codegalabs.github.io/feed.xml" rel="self" />
     <link href="https://codegalabs.github.io" />
-    <updated>2022-09-13T23:14:51-07:00</updated>
+    <updated>2022-09-13T23:56:29-07:00</updated>
     <author>
         <name>Michael</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://codegalabs.github.io/welcome.html"/>
         <id>https://codegalabs.github.io/welcome.html</id>
 
-        <updated>2022-09-13T23:14:51-07:00</updated>
+        <updated>2022-09-13T23:56:29-07:00</updated>
             <summary>
                 <![CDATA[
-                    This is the new landing page for the Codega web profile. The redesign is still in progress, but rest assured, it will arrive soon.
+                    This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon. The original Codega page was from 2007, and its time for an update.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is the new landing page for the Codega web profile. The redesign is still in progress, but rest assured, it will arrive soon.</p>
+                <p>This is the new landing page for the inclusive Codega web properties, thanks to Codega Labs. The redesign is still in progress, but rest assured, it will arrive soon.</p>
+<p>The original Codega page was from 2007, and its time for an update.</p>
 
             ]]>
         </content>
