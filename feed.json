@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Codega Labs",
+    "description": "",
+    "home_page_url": "https://codegalabs.github.io",
+    "feed_url": "https://codegalabs.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michael"
+    },
+    "items": [
+        {
+            "id": "https://codegalabs.github.io/welcome.html",
+            "url": "https://codegalabs.github.io/welcome.html",
+            "title": "Welcome. ",
+            "summary": "This is the new landing page for the Codega web profile. The redesign is still in progress, but rest assured, it will arrive soon.",
+            "content_html": "<p>This is the new landing page for the Codega web profile. The redesign is still in progress, but rest assured, it will arrive soon.</p>\n",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-13T23:14:51-07:00",
+            "date_modified": "2022-09-13T23:14:51-07:00"
+        }
+    ]
+}
